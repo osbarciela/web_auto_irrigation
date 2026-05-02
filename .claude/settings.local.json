@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:docs.emqx.com)",
+      "WebFetch(domain:www.emqx.com)",
+      "WebFetch(domain:www.cedalo.com)",
+      "WebFetch(domain:www.steves-internet-guide.com)",
+      "Bash(timeout 15 npx vite build)"
+    ]
+  }
+}
