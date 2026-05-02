@@ -34,3 +34,6 @@ Thumbs.db
 
 # Type checking
 *.tsbuildinfo
+
+# PR Description (local only)
+docs/PR_DESCRIPTION.md
