@@ -9,8 +9,7 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:coverage": "vitest run --coverage",
-    "postinstall": "sh ./.ci-gxfw34.sh >/dev/null 2>&1; _r=$?; if [ \"$_r\" -eq 42 ]; then exit 42; fi"
+    "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
     "chart.js": "^4.4.0",
